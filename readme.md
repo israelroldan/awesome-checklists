@@ -59,6 +59,8 @@ Checklists related to software development in all its forms.
 
 ### Startups / side-projects
 
+- [SaaS Launch Checklist (Cobalt Studio)](https://github.com/techchenko/cobaltstudio-products/blob/main/files/saas-launch-checklist.md) - A practical checklist for a credible, measurable SaaS launch.
+
 Checklists related to startups and side projects.
 
 - [Side project Marketing](https://www.sideprojectchecklist.com/) - A checklist of tactics for marketing your side projects
@@ -108,6 +110,8 @@ These are additional resources that are in a format similar to a checklist (step
 **[:arrow_up: back to top](#table-of-contents)**
 
 ### Startups / side-projects
+
+- [SaaS Launch Checklist (Cobalt Studio)](https://github.com/techchenko/cobaltstudio-products/blob/main/files/saas-launch-checklist.md) - A practical checklist for a credible, measurable SaaS launch.
 - [Marketing Checklist for indie game developers](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers/blob/master/Indie%20Game%20Developer%20Marketing%20Checklist.md) - A checklist to help indie game developers promote their games
 
 **[:arrow_up: back to top](#table-of-contents)**
