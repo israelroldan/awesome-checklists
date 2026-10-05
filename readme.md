@@ -66,6 +66,7 @@ Checklists related to startups and side projects.
 - [SaaS CTO Security Checklist](https://cto-security-checklist.sqreen.io/) - This is a basic checklist that all SaaS CTOs (and anyone else) can use to harden their security.
 - [Styleguide Checklist](https://github.com/mrmrs/styleguide-checklist) - A checklist of potential things that might want to be considered when constructing a style guide for a company or project
 - [SaaS Startup Checklist](https://github.com/slashdotdash/saas-startup-checklist) - A checklist for SaaS startups
+- [Ops Checklist Pack](https://masondaxton.github.io/ops-checklist-pack/) - Free printable ops checklists for small service teams (daily open/close, client onboarding, weekly review, incident response)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
